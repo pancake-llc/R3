@@ -11,6 +11,7 @@ Add the lines below to `Packages/manifest.json`
 for version `1.1.11`
 ```csharp
 "com.pancake.r3": "https://github.com/pancake-llc/R3.git#1.1.11",
+"com.cysharp.r3": "https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity#1.1.11",
 ```
 
 dependencies
