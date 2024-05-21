@@ -1,6 +1,6 @@
 {
   "name": "com.pancake.r3",
-  "displayName": "R3",
+  "displayName": "R3 Lib",
   "description": "The new future of dotnet/reactive and UniRx.",
   "version": "1.1.11",
   "unity": "2021.3",
@@ -17,7 +17,7 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:pancake-llc/R3.git",
-    "directory": "R3"
+    "directory": "R3.Lib"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@pancake-llc"
