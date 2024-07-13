@@ -8,10 +8,10 @@
 
 Add the lines below to `Packages/manifest.json`
 
-for version `1.1.12`
+for version `1.1.14`
 ```csharp
-"com.pancake.r3": "https://github.com/pancake-llc/R3.git#1.1.12",
-"com.cysharp.r3": "https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity#1.1.12",
+"com.pancake.r3": "https://github.com/pancake-llc/R3.git#1.1.14",
+"com.cysharp.r3": "https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity#1.1.14",
 ```
 
 dependencies
