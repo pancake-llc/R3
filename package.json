@@ -2,7 +2,7 @@
   "name": "com.pancake.r3",
   "displayName": "R3 Lib",
   "description": "The new future of dotnet/reactive and UniRx.",
-  "version": "1.1.14",
+  "version": "1.2.8",
   "unity": "2021.3",
   "category": "pancake",
   "author": {
